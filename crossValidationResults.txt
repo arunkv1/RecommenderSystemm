@@ -1,0 +1,218 @@
+---------- CROSS VALIDATION WITH DIFFERENT PARAMS ----------
+
+Rank is: 10
+RegParam is :0.5
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.9997639264310987
+Mean-square error = 0.9995279085929274
+MAP: 0.03204342083402325
+
+Rank is: 10
+RegParam is :0.5
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.000410646693621
+Mean-square error = 1.0008214620179487
+MAP: 0.03199856883636974
+
+Rank is: 10
+RegParam is :0.5
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.0004355028155696
+Mean-square error = 1.0008711952938414
+MAP: 0.03199010695377412
+
+Rank is: 10
+RegParam is :0.1
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.8247847821723692
+Mean-square error = 0.6802699369031223
+MAP: 0.03914904052502102
+
+Rank is: 10
+RegParam is :0.1
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 0.822451483457369
+Mean-square error = 0.676426442641227
+MAP: 0.038984074013373636
+
+Rank is: 10
+RegParam is :0.1
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 0.8214019557739699
+Mean-square error = 0.6747011729493028
+MAP: 0.039009047621746694
+
+Rank is: 10
+RegParam is :0.9
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 1.2481783093148986
+Mean-square error = 1.5579490918441992
+MAP: 0.021506377103858172
+
+Rank is: 10
+RegParam is :0.9
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.2481739351966135
+Mean-square error = 1.5579381725041992
+MAP: 0.02150622635773117
+
+Rank is: 10
+RegParam is :0.9
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.2481737934828658
+Mean-square error = 1.5579378187374078
+MAP: 0.02151389431072459
+
+Rank is: 15
+RegParam is :0.5
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.9997276387810833
+Mean-square error = 0.9994553517428
+MAP: 0.0320634298699471
+
+Rank is: 15
+RegParam is :0.5
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.0004092755637688
+Mean-square error = 1.0008187186340247
+MAP: 0.031995121774932335
+
+Rank is: 15
+RegParam is :0.5
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.0004354647694929
+Mean-square error = 1.000871119168551
+MAP: 0.03199010695377412
+
+Rank is: 15
+RegParam is :0.1
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.8243304112902804
+Mean-square error = 0.6795206269780028
+MAP: 0.03881796183116104
+
+Rank is: 15
+RegParam is :0.1
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 0.8212485654175402
+Mean-square error = 0.674449206200368
+MAP: 0.03892535337203609
+
+Rank is: 15
+RegParam is :0.1
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 0.8198917699739803
+Mean-square error = 0.6722225144710662
+MAP: 0.03873358419900804
+
+Rank is: 15
+RegParam is :0.9
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 1.2481785570302435
+Mean-square error = 1.5579497102301014
+MAP: 0.02150413601143677
+
+Rank is: 15
+RegParam is :0.9
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.2481739772217406
+Mean-square error = 1.5579382774135384
+MAP: 0.02150622635773117
+
+Rank is: 15
+RegParam is :0.9
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.248173812332744
+Mean-square error = 1.5579378657932552
+MAP: 0.02151389431072459
+
+Rank is: 20
+RegParam is :0.5
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.9997171508560111
+Mean-square error = 0.9994343817156608
+MAP: 0.032061902309193493
+
+Rank is: 20
+RegParam is :0.5
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.000408846030388
+Mean-square error = 1.0008178592158523
+MAP: 0.031995121774932335
+
+Rank is: 20
+RegParam is :0.5
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.000435421153481
+Mean-square error = 1.000871031898543
+MAP: 0.03199010695377412
+
+Rank is: 20
+RegParam is :0.1
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 0.824559879219483
+Mean-square error = 0.6798989944184484
+MAP: 0.03888952604251901
+
+Rank is: 20
+RegParam is :0.1
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 0.8209583477956718
+Mean-square error = 0.6739726088153991
+MAP: 0.039086119091611075
+
+Rank is: 20
+RegParam is :0.1
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 0.8193705771503446
+Mean-square error = 0.6713681426996891
+MAP: 0.039428272600934684
+
+Rank is: 20
+RegParam is :0.9
+MaxIters is: 10
+Evaluation Metrics: 
+Root-mean-square error = 1.2481785602324882
+Mean-square error = 1.5579497182240472
+MAP: 0.02150540227890357
+
+Rank is: 20
+RegParam is :0.9
+MaxIters is: 15
+Evaluation Metrics: 
+Root-mean-square error = 1.2481739854037335
+Mean-square error = 1.5579382978386396
+MAP: 0.02150622635773117
+
+Rank is: 20
+RegParam is :0.9
+MaxIters is: 20
+Evaluation Metrics: 
+Root-mean-square error = 1.2481738116881582
+Mean-square error = 1.5579378641841457
+MAP: 0.02151389431072459
+
